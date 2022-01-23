@@ -3,10 +3,12 @@
 ## PA3 題目
 
 1. Employ at least one feature selection method and use only 500 terms in your classification.
-o Chi-squared test.
-o Likelihood ratio.
-o Pointwise/expected MI.
-o Frequency-based methods.
+
+>Chi-squared test.
+>Likelihood ratio.
+>Pointwise/expected MI.
+>Frequency-based methods.
+
 
 2. Multinomial Naive Bayes Classifier
 
