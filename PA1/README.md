@@ -7,7 +7,8 @@
 3. Lowercasing.
 4. Stemming using Porter’s algorithm.
 5. Stopword removal.
-<br/> <br/>
+
+
 https://github.com/angel870326/NTU_IRTM_PA/blob/main/PA1/PA1%20%E9%A1%8C%E7%9B%AE.pdf
 
 ## Code
