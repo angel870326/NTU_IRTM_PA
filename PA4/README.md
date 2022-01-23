@@ -5,10 +5,10 @@
 1. Documents are represented as *normalized tf-idf vectors*.
 2. *Cosine similarity* for pair-wise document similarity.
 3. Similarity measure between clusters can be: 
->single-link<br/>
->***complete-link (pick)***<br/>
->group-average<br/>
->centroid similarity
+  - single-link<br/>
+  - ***complete-link (pick)***<br/>
+  - group-average<br/>
+  - centroid similarity
 4. (Bonus) Build ***HEAP*** to obtain the maximal similarity. (done)
 
 
