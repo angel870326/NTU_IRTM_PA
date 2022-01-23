@@ -1,2 +1,5 @@
 # NTU_IRTM_PA
-110-1 資訊檢索與文字探勘導論 (NTU)
+Introduction to Information Retrieval and Text Mining (2021)
+
+
+All the programmimg assignment were written in Java.
