@@ -4,10 +4,10 @@
 
 1. Employ at least one feature selection method and use only 500 terms in your classification.
 
->Chi-squared test.
->Likelihood ratio.
->Pointwise/expected MI.
->Frequency-based methods.
+>Chi-squared test.<br/>
+>Likelihood ratio.<br/>
+>Pointwise/expected MI.<br/>
+>Frequency-based methods.<br/>
 
 
 2. Multinomial Naive Bayes Classifier
