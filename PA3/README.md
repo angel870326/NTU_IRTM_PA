@@ -5,7 +5,7 @@
 1. Employ at least one feature selection method and use only 500 terms in your classification.
 
 >Chi-squared test.<br/>
->***Likelihood ratio.***<br/>
+>***Likelihood ratio. (pick)***<br/>
 >Pointwise/expected MI.<br/>
 >Frequency-based methods.<br/>
 
